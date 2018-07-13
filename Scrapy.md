@@ -4,5 +4,5 @@
 pip3.6 install builtwith
 
 # Example
->>import builtwith
->>builtwith.parse('https://example')
+import builtwith <br />
+builtwith.parse('https://example')
